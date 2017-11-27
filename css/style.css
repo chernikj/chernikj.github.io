@@ -1,13 +1,15 @@
 body {
-	background-color: #000;
+	background-color: black;
 	margin: 0;
 	font-family: sans-serif;
 }
 
 h1 {
 	text-align: center;
-	padding-top: 20%;
-	color: #fff;
-	text-transform: uppercase;
-	
+	padding-top: 5%;
+	color: #FF97DE;
+}
+
+img {
+	margin: 0 auto;
 }
